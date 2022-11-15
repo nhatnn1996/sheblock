@@ -16,7 +16,7 @@ import Cta from './cta';
 import Footer from './footer';
 
 const Index = () => {
-    document.title = " Landing | Velzon - React Admin & Dashboard Template";
+    document.title = "S.H.E Blockchain – Empowering Women in Blockchain";
     
     window.onscroll = function () {
         scrollFunction();

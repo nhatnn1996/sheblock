@@ -401,7 +401,7 @@ const CrmLeads = () => {
     setDate(joinDate);
   };
 
-  document.title = "Leads | Velzon - React Admin & Dashboard Template";
+  document.title = "Leads | S.H.E Blockchain – Empowering Women in Blockchain";
 
   return (
     <React.Fragment>

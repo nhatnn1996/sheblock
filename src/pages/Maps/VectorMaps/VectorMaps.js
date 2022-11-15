@@ -8,7 +8,7 @@ import BreadCrumb from '../../../Components/Common/BreadCrumb';
 
 
 const VectorMaps = () => {
-    document.title="Vector Maps | Velzon - React Admin & Dashboard Template";
+    document.title="Vector Maps | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

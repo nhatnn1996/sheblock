@@ -38,7 +38,7 @@ const UiSwiperSlider = () => {
         },
     };
 
-    document.title="Swiper Slider | Velzon - React Admin & Dashboard Template";
+    document.title="Swiper Slider | S.H.E Blockchain – Empowering Women in Blockchain";
 
     return (
         <React.Fragment>

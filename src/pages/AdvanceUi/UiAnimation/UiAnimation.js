@@ -18,7 +18,7 @@ AOS.init({
 });
 
 const UiAnimation = () => {
-    document.title="Animation | Velzon - React Admin & Dashboard Template";
+    document.title="Animation | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

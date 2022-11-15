@@ -29,7 +29,7 @@ import SimpleBar from "simplebar-react";
 
 
 const ItemDetails = () => {
-    document.title = "Item Details | Velzon - React Admin & Dashboard Template";
+    document.title = "Item Details | S.H.E Blockchain – Empowering Women in Blockchain";
 
     const [customActiveTab, setcustomActiveTab] = useState("1");
     const toggleCustom = tab => {

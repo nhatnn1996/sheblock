@@ -345,7 +345,7 @@ const UiAccordions = () => {
         setcoll9(!coll9);
     };
 
-    document.title="Accordions | Velzon - React Admin & Dashboard Template";
+    document.title="Accordions | S.H.E Blockchain – Empowering Women in Blockchain";
     
     return (
         <React.Fragment>

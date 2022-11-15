@@ -483,7 +483,7 @@ const EcommerceOrders = () => {
   };
 
 
-  document.title = "Orders | Velzon - React Admin & Dashboard Template";
+  document.title = "Orders | S.H.E Blockchain – Empowering Women in Blockchain";
   return (
     <div className="page-content">
       <ExportCSVModal

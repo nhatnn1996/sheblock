@@ -11,7 +11,7 @@ import UpcomingSchedules from './UpcomingSchedules';
 import Widgets from './Widgets';
 
 const DashboardProject = () => {
-    document.title="Projects | Velzon - React Admin & Dashboard Template";
+    document.title="Projects | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

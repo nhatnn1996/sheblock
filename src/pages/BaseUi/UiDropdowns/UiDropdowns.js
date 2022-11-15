@@ -45,7 +45,7 @@ const UiDropdowns = () => {
         }
     };
 
-    document.title="Dropdowns | Velzon - React Admin & Dashboard Template";
+    document.title="Dropdowns | S.H.E Blockchain – Empowering Women in Blockchain";
     
     return (
         <React.Fragment>

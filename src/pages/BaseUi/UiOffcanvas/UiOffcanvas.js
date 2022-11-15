@@ -63,7 +63,7 @@ const UiOffcanvas = () => {
         setIsScrollBackDrop(!isScrollBackDrop);
     };
 
-    document.title="Offcanvas | Velzon - React Admin & Dashboard Template";
+    document.title="Offcanvas | S.H.E Blockchain – Empowering Women in Blockchain";
 
     return (
         <React.Fragment>

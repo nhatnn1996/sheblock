@@ -14,7 +14,7 @@ const LoadingContainer = () => <div>Loading...</div>
 
 
 const GoogleMaps = (props) => {
-    document.title="Google Maps | Velzon - React Admin & Dashboard Template";
+    document.title="Google Maps | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>                
                 <div className="page-content">

@@ -56,7 +56,7 @@ const CreateProject = () => {
         return parseFloat((bytes / Math.pow(k, i)).toFixed(dm)) + " " + sizes[i];
     }
 
-document.title="Create Project | Velzon - React Admin & Dashboard Template";
+document.title="Create Project | S.H.E Blockchain – Empowering Women in Blockchain";
 
     return (
         <React.Fragment>

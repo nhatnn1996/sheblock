@@ -16,7 +16,7 @@ const Pricing = () => {
         }
     };
 
-    document.title = "Pricing | Velzon - React Admin & Dashboard Template";
+    document.title = "Pricing | S.H.E Blockchain – Empowering Women in Blockchain";
 
     return (
         <React.Fragment>

@@ -67,7 +67,7 @@ const Priority = ({ priority }) => {
 }
 
 const ToDoList = () => {
-    document.title = "To Do Lists | Velzon - React Admin & Dashboard Template";
+    document.title = "To Do Lists | S.H.E Blockchain – Empowering Women in Blockchain";
 
     const dispatch = useDispatch();
 

@@ -7,7 +7,7 @@ import TicketDetails from './TicketDetails';
 
 
 const TicketsDetaiks = () => {
-    document.title="Ticket Details | Velzon - React Admin & Dashboard Template";
+    document.title="Ticket Details | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

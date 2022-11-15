@@ -246,7 +246,7 @@ const InvoiceList = () => {
     []
   );
 
-  document.title = "Invoice List | Velzon - React Admin & Dashboard Template";
+  document.title = "Invoice List | S.H.E Blockchain – Empowering Women in Blockchain";
 
   return (
     <React.Fragment>

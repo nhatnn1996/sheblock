@@ -32,7 +32,7 @@ const Autton = () => {
 
 
 const UiTour = () => {
-document.title="Tour | Velzon - React Admin & Dashboard Template";
+document.title="Tour | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

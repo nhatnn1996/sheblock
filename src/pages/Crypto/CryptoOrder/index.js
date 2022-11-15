@@ -18,7 +18,7 @@ const CryproOrder = () => {
         dispatch(getOrderList());
     }, [dispatch]);
 
-    document.title = "Orders | Velzon - React Admin & Dashboard Template";
+    document.title = "Orders | S.H.E Blockchain – Empowering Women in Blockchain";
 
     return (
         <React.Fragment>

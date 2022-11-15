@@ -79,7 +79,7 @@ const ListTables = () => {
         });
     });
 
-    document.title = "Listjs | Velzon - React Admin & Dashboard Template";
+    document.title = "Listjs | S.H.E Blockchain – Empowering Women in Blockchain";
 
     return (
         <React.Fragment>

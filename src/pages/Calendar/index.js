@@ -347,7 +347,7 @@ const Calender = () => {
     }
   };
 
-  document.title = "Calendar | Velzon - React Admin & Dashboard Template";
+  document.title = "Calendar | S.H.E Blockchain – Empowering Women in Blockchain";
   return (
     <React.Fragment>
       <DeleteModal

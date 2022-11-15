@@ -31,7 +31,7 @@ const ComingSoon = () => {
         }
     }
 
-document.title ="Coming Soon | Velzon - React Admin & Dashboard Template";
+document.title ="Coming Soon | S.H.E Blockchain – Empowering Women in Blockchain";
 
     return (
         <React.Fragment>            

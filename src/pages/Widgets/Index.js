@@ -11,7 +11,7 @@ import ChartMapWidgets from './Chart&MapWidgets';
 
 
 const Widgets = () => {
-    document.title="Widgets | Velzon - React Admin & Dashboard Template";
+    document.title="Widgets | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

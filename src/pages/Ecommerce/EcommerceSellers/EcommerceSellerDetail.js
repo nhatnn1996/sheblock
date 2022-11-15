@@ -171,7 +171,7 @@ const EcommerceSellerDetail = () => {
     ],
     []
   );
-document.title ="Sellers Details | Velzon - React Admin & Dashboard Template";
+document.title ="Sellers Details | S.H.E Blockchain – Empowering Women in Blockchain";
 
   return (
     <React.Fragment>

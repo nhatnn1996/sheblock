@@ -106,7 +106,7 @@ const FormValidations = () => {
     }
     setValidation(modifiedV);
   };
-document.title ="Validation | Velzon - React Admin & Dashboard Template";
+document.title ="Validation | S.H.E Blockchain – Empowering Women in Blockchain";
 
   return (
     <React.Fragment>

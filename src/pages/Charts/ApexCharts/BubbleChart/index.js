@@ -8,7 +8,7 @@ import {
 
 
 const BubbleChart = () => {
-    document.title="Bubble Charts | Velzon - React Admin & Dashboard Template";
+    document.title="Bubble Charts | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment> 
             <div className="page-content">

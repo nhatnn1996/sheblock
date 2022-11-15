@@ -9,7 +9,7 @@ import RecentTransaction from './RecentTransaction';
 
 
 const MyWallet = () => {
-    document.title="My Wallet | Velzon - React Admin & Dashboard Template";
+    document.title="My Wallet | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

@@ -13,7 +13,7 @@ import LayerGroup from "./MapsLeaflet/LayerGroup";
 import MapLayerControl from "./MapsLeaflet/MapLayerControl";
 
 const LeafletMaps = () => {
-document.title ="Leaflet Maps | Velzon - React Admin & Dashboard Template";
+document.title ="Leaflet Maps | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>            
             <div className="page-content">

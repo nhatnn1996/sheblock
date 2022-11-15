@@ -9,7 +9,7 @@ import FeaturedNFT from "./FeaturedNFT";
 import RecentNFTs from "./RecentNFTs";
 
 const DashboardNFT = () => {
-    document.title = "NFT Dashboard | Velzon - React Admin & Dashboard Template";
+    document.title = "NFT Dashboard | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

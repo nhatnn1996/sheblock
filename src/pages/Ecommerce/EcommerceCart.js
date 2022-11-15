@@ -66,7 +66,7 @@ const EcommerceCart = () => {
     );
   }
 
-document.title ="Shopping Cart | Velzon - React Admin & Dashboard Template";
+document.title ="Shopping Cart | S.H.E Blockchain – Empowering Women in Blockchain";
   return (
     <React.Fragment>
       <div className="page-content">

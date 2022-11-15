@@ -11,7 +11,7 @@ import {
 
 
 const CheckBoxAndRadio = () => {
-    document.title="Checkbox & Radio | Velzon - React Admin & Dashboard Template";
+    document.title="Checkbox & Radio | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <UiContent />

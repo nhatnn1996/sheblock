@@ -99,7 +99,7 @@ const EcommerceCheckout = () => {
     },
   ];
 
-  document.title = "Checkout | Velzon - React Admin & Dashboard Template";
+  document.title = "Checkout | S.H.E Blockchain – Empowering Women in Blockchain";
 
   return (
     <React.Fragment>

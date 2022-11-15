@@ -6,7 +6,7 @@ import FeedbackAction from "./FeedbackAction";
 import RatingTemplate from "./RatingTemplate";
 
 const index = () => {
-    document.title = "Invoice Action | Velzon - React Admin & Dashboard Template";
+    document.title = "Invoice Action | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

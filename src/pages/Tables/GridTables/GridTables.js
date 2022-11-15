@@ -7,7 +7,7 @@ import { BaseExample, CardTableExample, PaginationExample, SearchExample, Sortin
 
 
 const GridTables = () => {
-    document.title="Grid Js | Velzon - React Admin & Dashboard Template";
+    document.title="Grid Js | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

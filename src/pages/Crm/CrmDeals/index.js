@@ -65,7 +65,7 @@ const CrmDeals = () => {
       setModal(true);
     }
   };
-  document.title = "Deals | Velzon - React Admin & Dashboard Template";
+  document.title = "Deals | S.H.E Blockchain – Empowering Women in Blockchain";
 
   return (
     <React.Fragment>

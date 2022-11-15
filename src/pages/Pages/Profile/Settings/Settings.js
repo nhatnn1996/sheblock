@@ -15,7 +15,7 @@ const Settings = () => {
         if (activeTab !== tab) setActiveTab(tab);
     };
 
-    document.title="Profile Settings | Velzon - React Admin & Dashboard Template";
+    document.title="Profile Settings | S.H.E Blockchain – Empowering Women in Blockchain";
 
     return (
         <React.Fragment>

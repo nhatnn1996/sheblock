@@ -22,7 +22,7 @@ import avatar10 from "../../../assets/images/users/avatar-10.jpg";
 import { aution, topCreator, topDrop } from "../../../common/data";
 
 const LiveAuction = () => {
-    document.title = "Live Auction | Velzon - React Admin & Dashboard Template";
+    document.title = "Live Auction | S.H.E Blockchain – Empowering Women in Blockchain";
     const [displayCategory, setCategory] = useState("All");
 
     const renderer = ({ days, hours, minutes, seconds, completed }) => {

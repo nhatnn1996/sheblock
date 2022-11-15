@@ -439,7 +439,7 @@ const CrmContacts = () => {
   // Export Modal
   const [isExportCSV, setIsExportCSV] = useState(false);
 
-  document.title = "Contacts | Velzon - React Admin & Dashboard Template";
+  document.title = "Contacts | S.H.E Blockchain – Empowering Women in Blockchain";
   return (
     <React.Fragment>
       <div className="page-content">

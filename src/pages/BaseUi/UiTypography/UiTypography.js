@@ -12,7 +12,7 @@ import { DisplayHeadingExample, HeadingsExample, BlockquotesExample, BlockquoteC
 
 
 const UiTypography = () => {
-    document.title="Typography | Velzon - React Admin & Dashboard Template";
+    document.title="Typography | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <UiContent />

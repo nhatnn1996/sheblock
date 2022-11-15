@@ -10,7 +10,7 @@ import { VerticalStartExample, VerticalCenterExample, VerticalEndExample, AlignS
 
 
 const UiGrid = () => {
-    document.title="Grid | Velzon - React Admin & Dashboard Template";
+    document.title="Grid | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <UiContent />

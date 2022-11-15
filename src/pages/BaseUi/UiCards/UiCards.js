@@ -70,7 +70,7 @@ const UiCards = () => {
         }, 3000);
     };
     
-    document.title="Cards | Velzon - React Admin & Dashboard Template";
+    document.title="Cards | S.H.E Blockchain – Empowering Women in Blockchain";
 
     return (
         <React.Fragment>

@@ -8,7 +8,7 @@ import Market from './Market';
 
 
 const BuySell = () => {
-    document.title="Buy & Sell | Velzon - React Admin & Dashboard Template";
+    document.title="Buy & Sell | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

@@ -126,7 +126,7 @@ function EcommerceProductDetail(props) {
     }
   };
 
-document.title ="Product Details | Velzon - React Admin & Dashboard Template";
+document.title ="Product Details | S.H.E Blockchain – Empowering Women in Blockchain";
   return (
     <div className="page-content">
       <Container fluid>        

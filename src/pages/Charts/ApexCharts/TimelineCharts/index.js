@@ -12,7 +12,7 @@ import {
 
 
 const TimelineCharts = () => {
-    document.title = "TimeLine Charts | Velzon - React Admin & Dashboard Template";
+    document.title = "TimeLine Charts | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <div className="page-content">

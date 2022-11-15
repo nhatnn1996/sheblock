@@ -19,7 +19,7 @@ import { DefaultListExample, ActiveItemExample, DisabledItemExample, ListlinkExa
 
 
 const UiList = () => {
-    document.title="List | Velzon - React Admin & Dashboard Template";
+    document.title="List | S.H.E Blockchain – Empowering Women in Blockchain";
     return (
         <React.Fragment>
             <UiContent />
