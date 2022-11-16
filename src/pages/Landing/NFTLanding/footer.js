@@ -21,7 +21,7 @@ const Footer = () => {
                   <p>
                     You can build any type of web application like eCommerce,
                     CRM, CMS, Project management apps, Admin Panels, etc using
-                    Velzon.
+                    sheblockchain.
                   </p>
                 </div>
               </div>
@@ -90,7 +90,7 @@ const Footer = () => {
             <Col sm={6}>
               <div>
                 <p className="copy-rights mb-0">
-                  {new Date().getFullYear()} © Velzon - Themesbrand
+                  {new Date().getFullYear()} © sheblockchain - Themesbrand
                 </p>
               </div>
             </Col>

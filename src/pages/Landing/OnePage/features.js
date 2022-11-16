@@ -80,7 +80,7 @@ const Features = () => {
             <Col className="col-sm-auto">
               <div>
                 <Link
-                  to="/1.envato.market/velzon-admin"
+                  to="/1.envato.market/sheblockchain-admin"
                   target="_blank"
                   className="btn bg-gradient btn-danger"
                 >

@@ -89,7 +89,7 @@ const Ranking = () => {
                             <div className="card" id="contactList">
                                 <div className="card-header border-0">
                                     <div className="d-flex align-items center">
-                                        <h5 className="card-title mb-0 flex-grow-1">The top NFTs ranking on Velzon</h5>
+                                        <h5 className="card-title mb-0 flex-grow-1">The top NFTs ranking on sheblockchain</h5>
                                         <p className="text-muted mb-0">Updated: 28 April, 2022 08:05:00</p>
                                     </div>
                                 </div>

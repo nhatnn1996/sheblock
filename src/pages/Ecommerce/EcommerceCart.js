@@ -259,7 +259,7 @@ document.title ="Shopping Cart | S.H.E Blockchain – Empowering Women in Blockc
                           <tr>
                             <td>
                               Discount{" "}
-                              <span className="text-muted">(VELZON15)</span> :{" "}
+                              <span className="text-muted">(sheblockchain15)</span> :{" "}
                             </td>
                             <td className="text-end" id="cart-discount">
                             - $ {dis}

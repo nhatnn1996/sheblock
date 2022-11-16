@@ -7,7 +7,7 @@ const htmlHighlightCode =
 <!DOCTYPE html>
 <html>
     <head>
-        {document.title ="Velzon - Responsive Admin Dashboard Template"}
+        {document.title ="sheblockchain - Responsive Admin Dashboard Template"}
     </head>
     <body>
         <div>

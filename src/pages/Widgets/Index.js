@@ -16,7 +16,7 @@ const Widgets = () => {
         <React.Fragment>
             <div className="page-content">
                 <Container fluid>
-                    <BreadCrumb title="Widgets" pageTitle="Velzon" />
+                    <BreadCrumb title="Widgets" pageTitle="sheblockchain" />
                     {/* Tile Boxs Widgets */}
                     <TileBoxs />
 

@@ -768,7 +768,7 @@
         .navbar-nav {
 
             .nav-link {
-                color: $vertical-menu-item-color-dark;
+                color: white;
 
                 &.active {
                     color: $vertical-menu-item-active-color-dark;
@@ -822,7 +822,7 @@
 
             .nav-sm {
                 .nav-link {
-                    color: $vertical-menu-sub-item-color-dark;
+                    color: white;
 
                     &:before {
                         background-color: $vertical-menu-sub-item-color-dark !important;
@@ -915,7 +915,7 @@
         }
 
         .menu-title {
-            color: $vertical-menu-title-color-dark;
+            color: white;
         }
 
         .logo-dark {
@@ -1030,7 +1030,7 @@
     cursor: default;
     font-size: 11px;
     text-transform: uppercase;
-    color: $vertical-menu-title-color;
+    color: white;
     font-weight: $font-weight-semibold;
 
     span {
@@ -1103,7 +1103,7 @@
     .navbar-nav {
         
         .nav-link {
-            color: $vertical-menu-item-color-gradient;
+            color: white;
 
             &.active{
                 color: $vertical-menu-item-active-color-dark;

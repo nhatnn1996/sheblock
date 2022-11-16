@@ -87,7 +87,7 @@ document.title ="Order Details | S.H.E Blockchain – Empowering Women in Blockc
                               <tr>
                                 <td>
                                   Discount{" "}
-                                  <span className="text-muted">(VELZON15)</span>{" "}
+                                  <span className="text-muted">(sheblockchain15)</span>{" "}
                                   : :
                                 </td>
                                 <td className="text-end">-$53.99</td>

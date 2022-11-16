@@ -289,7 +289,7 @@ $value in $theme-colors {
     &.nav-custom-light {
         .nav-item {
             .nav-link {
-                color: rgba(var(--#{$prefix}dark-rgb), 0.75);
+                color: rgba(var(--#{$prefix}white-rgb), 0.75);
 
                 &.active {
                     color: $light;

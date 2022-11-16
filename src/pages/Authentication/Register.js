@@ -84,10 +84,10 @@ const Register = () => {
                                 <div className="text-center mt-sm-5 mb-4 text-white-50">
                                     <div>
                                         <Link to="/" className="d-inline-block auth-logo">
-                                            <img src={logoLight} alt="" height="20" />
+                                            <img src={logoLight} alt="" height="50" />
                                         </Link>
                                     </div>
-                                    <p className="mt-3 fs-15 fw-medium">Premium Admin & Dashboard Template</p>
+                                    <p className="mt-3 fs-15 fw-medium">S.H.E Blockchain – Empowering Women in Blockchain</p>
                                 </div>
                             </Col>
                         </Row>
@@ -99,7 +99,7 @@ const Register = () => {
                                     <CardBody className="p-4">
                                         <div className="text-center mt-2">
                                             <h5 className="text-primary">Create New Account</h5>
-                                            <p className="text-muted">Get your free velzon account now</p>
+                                            <p className="text-muted">Get your free sheblockchain account now</p>
                                         </div>
                                         <div className="p-2 mt-4">
                                             <Form
@@ -204,7 +204,7 @@ const Register = () => {
                                                 </div>
 
                                                 <div className="mb-4">
-                                                    <p className="mb-0 fs-12 text-muted fst-italic">By registering you agree to the Velzon
+                                                    <p className="mb-0 fs-12 text-muted fst-italic">By registering you agree to the sheblockchain
                                                         <Link to="#" className="text-primary text-decoration-underline fst-normal fw-medium">Terms of Use</Link></p>
                                                 </div>
 

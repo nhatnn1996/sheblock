@@ -15,14 +15,14 @@ const Cta = () => {
             <Col className="col-sm">
               <div>
                 <h4 className="text-white mb-0 fw-semibold">
-                  Build your web App/SaaS with Velzon dashboard
+                  Build your web App/SaaS with sheblockchain dashboard
                 </h4>
               </div>
             </Col>
             <Col className="col-sm-auto">
               <div>
                 <Link
-                  to="//1.envato.market/velzon-admin"
+                  to="//1.envato.market/sheblockchain-admin"
                   target="_blank"
                   rel="noreferrer"
                   className="btn bg-gradient btn-danger"

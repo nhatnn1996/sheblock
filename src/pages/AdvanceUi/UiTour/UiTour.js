@@ -85,7 +85,7 @@ document.title="Tour | S.H.E Blockchain – Empowering Women in Blockchain";
                                                                         </div>
                                                                     </div>
                                                                     <h5>Free register</h5>
-                                                                    <p className="text-muted mb-0">Get your Free Velzon account now.</p>
+                                                                    <p className="text-muted mb-0">Get your Free sheblockchain account now.</p>
                                                                 </CardBody>
                                                             </Card>
                                                         </Col>
@@ -100,7 +100,7 @@ document.title="Tour | S.H.E Blockchain – Empowering Women in Blockchain";
                                                                         </div>
                                                                     </div>
                                                                     <h5>Log in account</h5>
-                                                                    <p className="text-muted mb-0">Sign in to continue to Velzon.</p>
+                                                                    <p className="text-muted mb-0">Sign in to continue to SheBlockchain.</p>
                                                                 </CardBody>
                                                             </Card>
                                                         </Col>
@@ -115,7 +115,7 @@ document.title="Tour | S.H.E Blockchain – Empowering Women in Blockchain";
                                                                         </div>
                                                                     </div>
                                                                     <h5>Get Product</h5>
-                                                                    <p className="text-muted mb-0">Sign in to continue to Velzon.</p>
+                                                                    <p className="text-muted mb-0">Sign in to continue to SheBlockchain.</p>
                                                                 </CardBody>
                                                             </Card>
                                                         </Col>

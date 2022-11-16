@@ -48,7 +48,7 @@ document.title ="Success Message | S.H.E Blockchain – Empowering Women in Bloc
                         <Row>
                             <Col lg={12}>
                                 <div className="text-center">
-                                    <p className="mb-0">&copy; {new Date().getFullYear()} Velzon. Crafted with <i className="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                                    <p className="mb-0">&copy; {new Date().getFullYear()} SheBlockchain. Crafted with <i className="mdi mdi-heart text-danger"></i> by Adam</p>
                                 </div>
                             </Col>
                         </Row>

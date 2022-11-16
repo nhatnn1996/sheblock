@@ -699,7 +699,7 @@ const FileManager = () => {
                                                             </tr>
                                                             <tr>
                                                                 <th scope="row">Share Path :</th>
-                                                                <td className="share-path">velzon:\Documents\</td>
+                                                                <td className="share-path">sheblockchain:\Documents\</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>

@@ -20,7 +20,7 @@ import BreadCrumb from "../../Components/Common/BreadCrumb";
 import Select from "react-select";
 
 import logoDark from "../../assets/images/she-blockchain-logo.png";
-import logoLight from "../../assets/images/she-blockchain-logo.png";
+import logoLight from "../../assets/images/logo-light.png";
 
 //formik
 import { useFormik } from "formik";
@@ -916,7 +916,7 @@ const InvoiceCreate = () => {
                                   <th scope="row">
                                     Discount{" "}
                                     <small className="text-muted">
-                                      (VELZON15)
+                                      (sheblockchain15)
                                     </small>
                                   </th>
                                   <td>

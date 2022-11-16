@@ -80,7 +80,7 @@ let users = [
     username: "admin",
     role: "admin",
     password: "123456",
-    email: "admin@themesbrand.com",
+    email: "admin@sheblockchain.io",
   },
 ];
 
@@ -104,6 +104,7 @@ const fakeBackend = () => {
     const validUser = users.filter(
       usr => usr.email === user.email && usr.password === user.password
     );
+    console.log(validUser);
 
     return new Promise((resolve, reject) => {
       setTimeout(() => {

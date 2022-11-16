@@ -74,7 +74,7 @@ const BasicAction = () => {
                                                                 <tr style={{ fontFamily: "Roboto, sans-serif", boxSizing: "border-box", fontSize: "14px", margin: 0, borderTop: "1px solid #e9ebec" }}>
                                                                     <td className="content-block" style={{ fontFamily: "Roboto, sans-serif", boxSizing: "border-box", fontSize: "14px", verticalAlign: "top", margin: 0, padding: 0, paddingTop: "15px" }} valign="top">
                                                                         <div style={{ display: "flex", alignItems: "center" }}>
-                                                                            <img src={avatar03} alt="" height="35" width="35" style={{ borderRadius: "50px" }} />
+                                                                            <img src={avatar03} alt="" height="50" width="35" style={{ borderRadius: "50px" }} />
                                                                             <div style={{ marginLeft: "8px" }}>
                                                                                 <span style={{ fontWeight: "600" }}>Luis Rocha</span>
                                                                                 <p style={{ fontSize: "13px", marginBottom: "0px", marginTop: "3px", color: "#878a99" }}>Creative Director</p>
@@ -100,7 +100,7 @@ const BasicAction = () => {
                                                     <Link to="/#" style={{ color: "#495057" }}>Account</Link>
                                                 </li>
                                             </ul>
-                                            <p style={{ fontFamily: "Roboto, sans-serif", fontSize: "14px", color: "#98a6ad", margin: "0px" }}>2022 Velzon. Design & Develop by Themesbrand</p>
+                                            <p style={{ fontFamily: "Roboto, sans-serif", fontSize: "14px", color: "#98a6ad", margin: "0px" }}>2022 sheblockchain. Design & Develop by Themesbrand</p>
                                         </div>
                                     </div>
                                 </td>

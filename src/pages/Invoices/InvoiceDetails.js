@@ -4,7 +4,7 @@ import BreadCrumb from "../../Components/Common/BreadCrumb";
 import { Link } from "react-router-dom";
 
 import logoDark from "../../assets/images/she-blockchain-logo.png";
-import logoLight from "../../assets/images/she-blockchain-logo.png";
+import logoLight from "../../assets/images/logo-light.png";
 
 const InvoiceDetails = () => {
   //Print the Invoice
@@ -58,7 +58,7 @@ const InvoiceDetails = () => {
                         </h6>
                         <h6>
                           <span className="text-muted fw-normal">Email:</span>{" "}
-                          <span id="email">velzon@themesbrand.com</span>
+                          <span id="email">sheblockchain@themesbrand.com</span>
                         </h6>
                         <h6>
                           <span className="text-muted fw-normal">Website:</span>{" "}
@@ -214,7 +214,7 @@ const InvoiceDetails = () => {
                             <td className="text-end">$44.99</td>
                           </tr>
                           <tr>
-                            <td>Discount <small className="text-muted">(VELZON15)</small></td>
+                            <td>Discount <small className="text-muted">(sheblockchain15)</small></td>
                             <td className="text-end">- $53.99</td>
                           </tr>
                           <tr>

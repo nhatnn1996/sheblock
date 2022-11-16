@@ -800,7 +800,7 @@ const EcommerceCheckout = () => {
                         <tr>
                           <td colSpan="2">
                             Discount{" "}
-                            <span className="text-muted">(VELZON15)</span>:{" "}
+                            <span className="text-muted">(sheblockchain15)</span>:{" "}
                           </td>
                           <td className="text-end">- $ 50.00</td>
                         </tr>

@@ -47,7 +47,7 @@ const CoverSignUp = () => {
                                             <div className="p-lg-5 p-4">
                                                 <div>
                                                     <h5 className="text-primary">Register Account</h5>
-                                                    <p className="text-muted">Get your Free Velzon account now.</p>
+                                                    <p className="text-muted">Get your Free sheblockchain account now.</p>
                                                 </div>
 
                                                 <div className="mt-4">
@@ -92,7 +92,7 @@ const CoverSignUp = () => {
                                                         </div>
 
                                                         <div className="mb-4">
-                                                            <p className="mb-0 fs-12 text-muted fst-italic">By registering you agree to the Velzon <Link to="#" className="text-primary text-decoration-underline fst-normal fw-medium">Terms of Use</Link></p>
+                                                            <p className="mb-0 fs-12 text-muted fst-italic">By registering you agree to the sheblockchain <Link to="#" className="text-primary text-decoration-underline fst-normal fw-medium">Terms of Use</Link></p>
                                                         </div>
 
                                                         <div id="password-contain" className="p-3 bg-light mb-2 rounded">
@@ -140,7 +140,7 @@ const CoverSignUp = () => {
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="text-center">
-                                    <p className="mb-0">{new Date().getFullYear()} Velzon. Crafted with <i className="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                                    <p className="mb-0">{new Date().getFullYear()} SheBlockchain. Crafted with <i className="mdi mdi-heart text-danger"></i> by Adam</p>
                                 </div>
                             </div>
                         </div>

@@ -35,10 +35,10 @@ const BasicPasswReset = () => {
                             <div className="text-center mt-sm-5 mb-4 text-white-50">
                                 <div>
                                     <Link to="/#" className="d-inline-block auth-logo">
-                                        <img src={logoLight} alt="" height="20" />
+                                        <img src={logoLight} alt="" height="50" />
                                     </Link>
                                 </div>
-                                <p className="mt-3 fs-16 fw-semibold">Premium Admin & Dashboard Template</p>
+                                <p className="mt-3 fs-16 fw-semibold">S.H.E Blockchain – Empowering Women in Blockchain</p>
                             </div>
                         </Col>
                     </Row>
@@ -49,7 +49,7 @@ const BasicPasswReset = () => {
                                 <CardBody className="p-4">
                                     <div className="text-center mt-2">
                                         <h5 className="text-primary">Forgot Password?</h5>
-                                        <p className="text-muted">Reset password with velzon</p>
+                                        <p className="text-muted">Reset password with sheblockchain</p>
 
                                         <lord-icon
                                             src="https://cdn.lordicon.com/rhvddzym.json"

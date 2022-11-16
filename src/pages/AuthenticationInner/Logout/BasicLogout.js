@@ -20,10 +20,10 @@ const BasicLogout = () => {
                                         <div className="text-center mt-sm-5 mb-4 text-white-50">
                                             <div>
                                                 <Link to="/dashboard" className="d-inline-block auth-logo">
-                                                    <img src={logoLight} alt="" height="20" />
+                                                    <img src={logoLight} alt="" height="50" />
                                                 </Link>
                                             </div>
-                                            <p className="mt-3 fs-15 fw-medium">Premium Admin & Dashboard Template</p>
+                                            <p className="mt-3 fs-15 fw-medium">S.H.E Blockchain – Empowering Women in Blockchain</p>
                                         </div>
                                     </Col>
                                 </Row>
@@ -41,7 +41,7 @@ const BasicLogout = () => {
 
                                                 <div className="mt-4 pt-2">
                                                     <h5>You are Logged Out</h5>
-                                                    <p className="text-muted">Thank you for using <span className="fw-semibold">velzon</span> admin template</p>
+                                                    <p className="text-muted">Thank you for using <span className="fw-semibold">sheblockchain</span> admin template</p>
                                                     <div className="mt-4">
                                                         <Link to="/auth-signin-basic" className="btn btn-success w-100">Sign In</Link>
                                                     </div>

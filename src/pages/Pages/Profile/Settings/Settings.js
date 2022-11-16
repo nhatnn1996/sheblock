@@ -110,7 +110,7 @@ const Settings = () => {
                                             </span>
                                         </div>
                                         <Input type="text" className="form-control" id="websiteInput"
-                                            placeholder="www.example.com" defaultValue="www.velzon.com" />
+                                            placeholder="www.example.com" defaultValue="www.sheblockchain.io" />
                                     </div>
                                     <div className="mb-3 d-flex">
                                         <div className="avatar-xs d-block flex-shrink-0 me-3">
@@ -221,7 +221,7 @@ const Settings = () => {
                                                                 Address</Label>
                                                             <Input type="email" className="form-control" id="emailInput"
                                                                 placeholder="Enter your email"
-                                                                defaultValue="daveadame@velzon.com" />
+                                                                defaultValue="daveadame@sheblockchain.com" />
                                                         </div>
                                                     </Col>
                                                     <Col lg={12}>
@@ -263,7 +263,7 @@ const Settings = () => {
                                                             <Label htmlFor="websiteInput1"
                                                                 className="form-label">Website</Label>
                                                             <Input type="text" className="form-control" id="websiteInput1"
-                                                                placeholder="www.example.com" defaultValue="www.velzon.com" />
+                                                                placeholder="www.example.com" defaultValue="www.sheblockchain.io" />
                                                         </div>
                                                     </Col>
                                                     <Col lg={4}>

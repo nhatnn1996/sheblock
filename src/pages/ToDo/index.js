@@ -393,7 +393,7 @@ const ToDoList = () => {
                         </div>
                         <div className="file-manager-content w-100 p-4 pb-0">
                             <div className="hstack mb-4">
-                                <h5 className="fw-semibold flex-grow-1 mb-0">Velzon Admin & Dashboard <span className="badge bg-primary align-bottom ms-2">v1.7.0</span></h5>
+                                <h5 className="fw-semibold flex-grow-1 mb-0">sheblockchain Admin & Dashboard <span className="badge bg-primary align-bottom ms-2">v1.7.0</span></h5>
                                 <div className="hstack gap-2">
                                     <div className="btn-group" role="group" aria-label="Basic example">
                                         <button className="btn btn-icon fw-semibold btn-soft-danger"><i className="ri-arrow-go-back-line"></i></button>
