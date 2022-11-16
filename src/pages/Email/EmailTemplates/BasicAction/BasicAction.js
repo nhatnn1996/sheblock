@@ -43,7 +43,7 @@ const BasicAction = () => {
                                                                 <tr style={{ fontFamily: "Roboto, sans-serif", boxSizing: "borderBox", fontSize: "14px", margin: 0 }}>
                                                                     <td className="content-block" style={{ fontFamily: "Roboto, sans-serif", boxSizing: "border-box", fontSize: "14px", verticalAlign: "top", margin: 0, padding: "0 0 20px" }} valign="top">
                                                                         <div style={{ marginBottom: "15px" }}>
-                                                                            <img src={logo_dark} alt="" height="23" />
+                                                                            <img src={logo_dark} alt="" height="50" />
                                                                         </div>
                                                                     </td>
                                                                 </tr>

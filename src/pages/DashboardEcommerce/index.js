@@ -13,6 +13,7 @@ import TopSellers from "./TopSellers";
 
 
 const DashboardEcommerce = () => {
+  console.log("hehlo anh em")
   document.title ="Dashboard | S.H.E Blockchain – Empowering Women in Blockchain";
   return (
     <React.Fragment>

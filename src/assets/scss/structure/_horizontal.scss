@@ -67,7 +67,7 @@
             }
 
             .nav-link {
-                color: rgba($white, 0.8);
+                color: $topnav-item-color;
                 padding: $horizontal-menu-item-padding-y $horizontal-menu-item-padding-x;
 
                 i {

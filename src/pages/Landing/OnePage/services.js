@@ -16,7 +16,7 @@ const Services = () => {
                 </h1>
                 <p className="text-muted">
                   To achieve this, it is necessary to apply the idea to digital
-                  technology that combines web3 and financial tools
+                  technology that combines web3 and financial tools.
                 </p>
               </div>
             </Col>
@@ -33,10 +33,12 @@ const Services = () => {
                   </div>
                 </div>
                 <div className="flex-grow-1">
-                  <h5 className="fs-18">Creative Design</h5>
+                  <h5 className="fs-18">Web3 platform</h5>
                   <p className="text-muted my-3 ff-secondary">
-                    The creative design includes designs that are unique,
-                    effective and memorable.
+                    Smart contracts and blockchain, Web3 is expected to affect
+                    many areas of life thanks to the core operating mechanisms
+                    from decentralized platforms (dApps) as well as
+                    decentralized autonomous organizations ( KNIFE).
                   </p>
                   <div>
                     <Link to="#" className="fs-13 fw-medium">
@@ -58,10 +60,10 @@ const Services = () => {
                   </div>
                 </div>
                 <div className="flex-grow-1">
-                  <h5 className="fs-18">Unlimited Colors</h5>
+                  <h5 className="fs-18">Social networking platform</h5>
                   <p className="text-muted my-3 ff-secondary">
-                    The collection of rules and guidelines which designers use
-                    to communicate with users through appealing.
+                    An online platform that everyone can use to exchange finance
+                    and blockchain.
                   </p>
                   <div>
                     <Link to="#" className="fs-13 fw-medium">
@@ -83,10 +85,10 @@ const Services = () => {
                   </div>
                 </div>
                 <div className="flex-grow-1">
-                  <h5 className="fs-18">Strategy Solutions</h5>
+                  <h5 className="fs-18"> Build a personal profile</h5>
                   <p className="text-muted my-3 ff-secondary">
-                    Business development firm that provides strategic planning,
-                    market research services and project.
+                    Start building a personal brand for your startup or
+                    business.
                   </p>
                   <div>
                     <Link to="#" className="fs-13 fw-medium">
@@ -108,10 +110,10 @@ const Services = () => {
                   </div>
                 </div>
                 <div className="flex-grow-1">
-                  <h5 className="fs-18">Awesome Support</h5>
+                  <h5 className="fs-18">Strategic solution</h5>
                   <p className="text-muted my-3 ff-secondary">
-                    Awesome Support is the most versatile and feature-rich
-                    support plugin for all version.
+                    S.H.E provides strategic solutions for blockchain business
+                    including market research and project services.
                   </p>
                   <div>
                     <Link to="#" className="fs-13 fw-medium">
@@ -133,10 +135,10 @@ const Services = () => {
                   </div>
                 </div>
                 <div className="flex-grow-1">
-                  <h5 className="fs-18">Truly Multipurpose</h5>
+                  <h5 className="fs-18">Marketing, event organization</h5>
                   <p className="text-muted my-3 ff-secondary">
-                    You usually get a broad range of options to play with. This
-                    enables you to use a single theme across multiple.
+                    S.H.E provides a wide range of MKT forms in the platform and
+                    ensures that the services work efficiently.
                   </p>
                   <div>
                     <Link to="#" className="fs-13 fw-medium">
@@ -158,10 +160,11 @@ const Services = () => {
                   </div>
                 </div>
                 <div className="flex-grow-1">
-                  <h5 className="fs-18">Easy to customize</h5>
+                  <h5 className="fs-18">Training solution</h5>
                   <p className="text-muted my-3 ff-secondary">
-                    Personalise your own website, no matter what theme and what
-                    customization options.
+                    The platform provides training solutions through:
+                    E-learning, Webinar, offline courses organized by S.H.E or
+                    associated with other partners.
                   </p>
                   <div>
                     <Link to="#" className="fs-13 fw-medium">
@@ -183,10 +186,10 @@ const Services = () => {
                   </div>
                 </div>
                 <div className="flex-grow-1">
-                  <h5 className="fs-18">Responsive & Clean Design</h5>
+                  <h5 className="fs-18">Certifications and certificates</h5>
                   <p className="text-muted my-3 ff-secondary">
-                    Responsive design is a graphic user interface (GUI) design
-                    approach used to create content.
+                    Provide certification of certificates, diplomas related to
+                    courses offered by SHE
                   </p>
                   <div>
                     <Link to="#" className="fs-13 fw-medium">
@@ -208,10 +211,10 @@ const Services = () => {
                   </div>
                 </div>
                 <div className="flex-grow-1">
-                  <h5 className="fs-18">Google Font Collection</h5>
+                  <h5 className="fs-18">Consulting service, connection</h5>
                   <p className="text-muted my-3 ff-secondary">
-                    Google Fonts is a collection of 915 fonts, all available to
-                    use for free on your website.
+                    Steps to become a complete Startup in Blockchain industry
+                    and other personnel and services.
                   </p>
                   <div>
                     <Link to="#" className="fs-13 fw-medium">
@@ -233,10 +236,11 @@ const Services = () => {
                   </div>
                 </div>
                 <div className="flex-grow-1">
-                  <h5 className="fs-18">Top Industry Specialists</h5>
+                  <h5 className="fs-18">Recruit</h5>
                   <p className="text-muted my-3 ff-secondary">
-                    An industrial specialist works with industrial operations to
-                    ensure that manufacturing facilities work.
+                    Individuals, Projects, Startups, Enterprises wishing to
+                    recruit, advertise their business, connect partners, use
+                    services provided by S.H.E.
                   </p>
                   <div>
                     <Link to="#" className="fs-13 fw-medium">

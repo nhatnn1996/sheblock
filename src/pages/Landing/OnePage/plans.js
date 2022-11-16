@@ -14,7 +14,7 @@ const Plans = () => {
             <Col lg={8}>
               <div className="text-center mb-5">
                 <h3 className="mb-3 fw-semibold">
-                  Join the millions of LinkedIn members using Premium to get
+                  Join the millions of S.H.E members using Premium to get
                   ahead.
                 </h3>
                 <p className="text-muted mb-4">

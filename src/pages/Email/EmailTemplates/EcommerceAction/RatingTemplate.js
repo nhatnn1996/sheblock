@@ -41,7 +41,7 @@ const RatingTemplate = () => {
                                                             <h6 style={{fontFamily: "Roboto, sans-serif", margin: 0, fontSize: "15px", color: "#fff", textTransform: "uppercase"}}>FREE 1-2 day shipping on orders over $32</h6>
                                                         </div>
                                                         <div style={{padding: "20px", boxSizing: "border-box", textAlign: "center", borderBottom: "1px solid #e9ebec"}}>
-                                                            <img src={logo_dark} alt="" height="23"/>
+                                                            <img src={logo_dark} alt="" height="50"/>
                                                         </div>
                                                         <div style={{padding: "20px", boxSizing: "border-box", textAlign: "center"}}>
                                                             <h5 style={{fontFamily: "Roboto, sans-serif", marginBottom: "10px", fontWeight: 500}}>What did you think of your recent purchase?</h5>

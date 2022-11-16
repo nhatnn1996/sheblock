@@ -222,9 +222,9 @@ import FileManager from "../pages/FileManager";
 import ToDoList from "../pages/ToDo";
 
 const authProtectedRoutes = [
+  { path: "/dashboard", component: DashboardEcommerce },
   { path: "/dashboard-analytics", component: DashboardAnalytics },
   { path: "/dashboard-crm", component: DashboardCrm },
-  { path: "/dashboard", component: DashboardEcommerce },
   { path: "/index", component: DashboardEcommerce },
   { path: "/dashboard-crypto", component: DashboardCrypto },
   { path: "/dashboard-projects", component: DashboardProject },
@@ -385,7 +385,7 @@ const authProtectedRoutes = [
   {
     path: "/",
     exact: true,
-    component: () => <Redirect to="/dashboard" />,
+    component: () => <Redirect to="/landing" />,
   },
 ];
 
