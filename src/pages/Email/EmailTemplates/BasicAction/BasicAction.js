@@ -49,7 +49,7 @@ const BasicAction = () => {
                                                                 </tr>
                                                                 <tr style={{ fontFamily: "Roboto, sans-serif", boxSizing: "border-box", fontSize: "14px", margin: 0 }}>
                                                                     <td className="content-block" style={{ fontFamily: "Roboto, sans-serif", boxSizing: "border-box", fontSize: "20px", lineHeight: "1.5", fontWeight: "500", verticalAlign: "top", margin: 0, padding: "0 0 10px" }} valign="top">
-                                                                        Hey, Anna Adame
+                                                                        Hey, Linh
                                                                     </td>
                                                                 </tr>
                                                                 <tr style={{ fontFamily: "Roboto, sans-serif", boxSizing: "border-box", fontSize: "14px", margin: 0 }}>
@@ -100,7 +100,7 @@ const BasicAction = () => {
                                                     <Link to="/#" style={{ color: "#495057" }}>Account</Link>
                                                 </li>
                                             </ul>
-                                            <p style={{ fontFamily: "Roboto, sans-serif", fontSize: "14px", color: "#98a6ad", margin: "0px" }}>2022 sheblockchain. Design & Develop by Themesbrand</p>
+                                            <p style={{ fontFamily: "Roboto, sans-serif", fontSize: "14px", color: "#98a6ad", margin: "0px" }}>2022 sheblockchain. Design & Develop by sheblockchain</p>
                                         </div>
                                     </div>
                                 </td>

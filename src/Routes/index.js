@@ -1,5 +1,5 @@
 import React from "react";
-import { Switch, Route, useLocation } from "react-router-dom";
+import { Switch, Route, useLocation, Redirect } from "react-router-dom";
 
 //Layouts
 import NonAuthLayout from "../Layouts/NonAuthLayout";
@@ -46,6 +46,9 @@ const Index = () => {
               </Switch>
             </VerticalLayout>
           </AuthProtected>
+        </Route>
+        <Route path={"/"} exact={true}>
+          <Redirect to="/landing" />
         </Route>
       </Switch>
     </React.Fragment>

@@ -13,7 +13,7 @@ import Img5 from "../../../assets/images/nft/img-05.jpg";
 import ImgGif3 from "../../../assets/images/nft/gif/img-3.gif";
 import ImgGif4 from "../../../assets/images/nft/gif/img-4.gif";
 
-import avatar1 from "../../../assets/images/users/avatar-1.jpg";
+import avatar1 from "../../../assets/images/users/linh.jpeg";
 import avatar3 from "../../../assets/images/users/avatar-3.jpg";
 import avatar5 from "../../../assets/images/users/avatar-5.jpg";
 import avatar8 from "../../../assets/images/users/avatar-8.jpg";

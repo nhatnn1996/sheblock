@@ -28,7 +28,7 @@ const Services = () => {
                 <div className="flex-shrink-0 me-3">
                   <div className="avatar-sm icon-effect">
                     <div className="avatar-title bg-transparent text-success rounded-circle">
-                      <i className="ri-pencil-ruler-2-line fs-36"></i>
+                      <i className="ri-codepen-line fs-36"></i>
                     </div>
                   </div>
                 </div>
@@ -38,7 +38,7 @@ const Services = () => {
                     Smart contracts and blockchain, Web3 is expected to affect
                     many areas of life thanks to the core operating mechanisms
                     from decentralized platforms (dApps) as well as
-                    decentralized autonomous organizations ( KNIFE).
+                    decentralized autonomous organizations (DAO).
                   </p>
                   <div>
                     <Link to="#" className="fs-13 fw-medium">

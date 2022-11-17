@@ -22,7 +22,7 @@ const Section = () => {
                                         <div className="col-md">
                                             <h4 className="fw-semibold" id="ticket-title">#VLZ135 - Create an Excellent UI for a Dashboard</h4>
                                             <div className="hstack gap-3 flex-wrap">
-                                                <div className="text-muted"><i className="ri-building-line align-bottom me-1"></i> <span id="ticket-client">Themesbrand</span></div>
+                                                <div className="text-muted"><i className="ri-building-line align-bottom me-1"></i> <span id="ticket-client">sheblockchain</span></div>
                                                 <div className="vr"></div>
                                                 <div className="text-muted">Create Date : <span className="fw-medium" id="create-date">20 Dec, 2021</span></div>
                                                 <div className="vr"></div>

@@ -1,7 +1,7 @@
 const topPages = [
     {
         id: 1,
-        page: "/themesbrand/skote-25867",
+        page: "/sheblockchain/skote-25867",
         active: "99",
         user: "25.3%"
     },
@@ -19,7 +19,7 @@ const topPages = [
     },
     {
         id: 4,
-        page: "/themesbrand/minia-26441",
+        page: "/sheblockchain/minia-26441",
         active: "53",
         user: "14.2%"
     },

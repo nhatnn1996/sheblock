@@ -24,7 +24,7 @@ import img10 from "../../../assets/images/small/img-10.jpg";
 import img11 from "../../../assets/images/small/img-11.jpg";
 import img12 from "../../../assets/images/small/img-12.jpg";
 
-import avatar1 from "../../../assets/images/users/avatar-1.jpg";
+import avatar1 from "../../../assets/images/users/linh.jpeg";
 import avatar2 from "../../../assets/images/users/avatar-2.jpg";
 import avatar3 from "../../../assets/images/users/avatar-3.jpg";
 import avatar4 from "../../../assets/images/users/avatar-4.jpg";

@@ -13,7 +13,7 @@ import company5 from "../../assets/images/companies/img-5.png";
 import company6 from "../../assets/images/companies/img-6.png";
 import company8 from "../../assets/images/companies/img-8.png";
 
-import avatar1 from "../../assets/images/users/avatar-1.jpg";
+import avatar1 from "../../assets/images/users/linh.jpeg";
 import avatar2 from "../../assets/images/users/avatar-2.jpg";
 import avatar3 from "../../assets/images/users/avatar-3.jpg";
 import avatar4 from "../../assets/images/users/avatar-4.jpg";
@@ -34,7 +34,7 @@ const crmcontacts = [
         name: "Tonya Noble",
         company: "Nesta Technologies",
         designation: "Developer",
-        email: "tonyanoble@sheblockchain.com",
+        email: "tonyanoble@sheblockchain.io",
         phone: "414-453-5725",
         score: "154",
         date: "15 Dec, 2021",
@@ -48,7 +48,7 @@ const crmcontacts = [
         name: "Thomas Taylor",
         company: "iTest Factory",
         designation: "Designer",
-        email: "thomastaylor@sheblockchain.com",
+        email: "thomastaylor@sheblockchain.io",
         phone: "580-464-4694",
         score: "236",
         date: "17 Dec, 2021",
@@ -62,7 +62,7 @@ const crmcontacts = [
         name: "Nancy Martino",
         company: "Force Medicines",
         designation: "Developer",
-        email: "nancymartino@sheblockchain.com",
+        email: "nancymartino@sheblockchain.io",
         phone: "786-253-9927",
         score: "197",
         date: "04 Dec, 2021",
@@ -76,7 +76,7 @@ const crmcontacts = [
         name: "Alexis Clarke",
         company: "Digitech Galaxy",
         designation: "Designer",
-        email: "alexisclarke@sheblockchain.com",
+        email: "alexisclarke@sheblockchain.io",
         phone: "515-395-1069",
         score: "369",
         date: "27 Oct, 2021",
@@ -88,9 +88,9 @@ const crmcontacts = [
         contactId: "#VZ005",
         img: avatar6,
         name: "James Price",
-        company: "Themesbrand",
+        company: "sheblockchain",
         designation: "Developer",
-        email: "jamesprice@sheblockchain.com",
+        email: "jamesprice@sheblockchain.io",
         phone: "646-276-2274",
         score: "81",
         date: "23 Oct, 2021",
@@ -104,7 +104,7 @@ const crmcontacts = [
         name: "Mary Cousar",
         company: "Micro Design",
         designation: "Designer",
-        email: "marycousar@sheblockchain.com",
+        email: "marycousar@sheblockchain.io",
         phone: "540-575-0991",
         score: "643",
         date: "18 Oct, 2021",
@@ -116,9 +116,9 @@ const crmcontacts = [
         contactId: "#VZ007",
         img: avatar3,
         name: "Herbert Stokes",
-        company: "Themesbrand",
+        company: "sheblockchain",
         designation: "Developer",
-        email: "herbertstokes@sheblockchain.com",
+        email: "herbertstokes@sheblockchain.io",
         phone: "949-791-0614",
         score: "784",
         date: "01 Jan, 2022",
@@ -132,7 +132,7 @@ const crmcontacts = [
         name: "Michael Morris",
         company: "Syntyce Solutions",
         designation: "Designer",
-        email: "michaelmorris@sheblockchain.com",
+        email: "michaelmorris@sheblockchain.io",
         phone: "484-606-3104",
         score: "361",
         date: "20 Sep, 2021",
@@ -146,7 +146,7 @@ const crmcontacts = [
         name: "Timothy Smith",
         company: "Digitech Galaxy",
         designation: "Developer",
-        email: "timothysmith@sheblockchain.com",
+        email: "timothysmith@sheblockchain.io",
         phone: "231-480-8536",
         score: "732",
         date: "02 Jan, 2022",
@@ -160,7 +160,7 @@ const crmcontacts = [
         name: "Kevin Dawson",
         company: "Meta4Systems",
         designation: "Designer",
-        email: "kevindawson@sheblockchain.com",
+        email: "kevindawson@sheblockchain.io",
         phone: "745-321-9874",
         score: "500",
         date: "10 Jun, 2011",
@@ -182,8 +182,8 @@ const companies = [
         rating: "4.5",
         location: "Los Angeles, USA",
         employee: "11-50",
-        website: "www.themesbrand.com",
-        contact: "info@themesbrand.com",
+        website: "www.sheblockchain.io",
+        contact: "info@sheblockchain.io",
         since: "1995"
     },
     {
@@ -196,8 +196,8 @@ const companies = [
         rating: "3.8",
         location: "Berlin, Germany",
         employee: "11-50",
-        website: "www.themesbrand.com",
-        contact: "info@themesbrand.com",
+        website: "www.sheblockchain.io",
+        contact: "info@sheblockchain.io",
         since: "1995"
     },
     {
@@ -210,8 +210,8 @@ const companies = [
         rating: "4.1",
         location: "Phoenix, USA",
         employee: "11-50",
-        website: "www.themesbrand.com",
-        contact: "info@themesbrand.com",
+        website: "www.sheblockchain.io",
+        contact: "info@sheblockchain.io",
         since: "1995"
     },
     {
@@ -224,8 +224,8 @@ const companies = [
         rating: "3.2",
         location: "Bogota, Colombia",
         employee: "11-50",
-        website: "www.themesbrand.com",
-        contact: "info@themesbrand.com",
+        website: "www.sheblockchain.io",
+        contact: "info@sheblockchain.io",
         since: "1995"
     },
     {
@@ -238,8 +238,8 @@ const companies = [
         rating: "4.4",
         location: "Brasilia, Brazil",
         employee: "11-50",
-        website: "www.themesbrand.com",
-        contact: "info@themesbrand.com",
+        website: "www.sheblockchain.io",
+        contact: "info@sheblockchain.io",
         since: "1995"
     },
     {
@@ -252,8 +252,8 @@ const companies = [
         rating: "2.7",
         location: "Windhoek, Namibia",
         employee: "11-50",
-        website: "www.themesbrand.com",
-        contact: "info@themesbrand.com",
+        website: "www.sheblockchain.io",
+        contact: "info@sheblockchain.io",
         since: "1995"
     },
     {
@@ -266,8 +266,8 @@ const companies = [
         rating: "4.0",
         location: "Damascus, Syria",
         employee: "11-50",
-        website: "www.themesbrand.com",
-        contact: "info@themesbrand.com",
+        website: "www.sheblockchain.io",
+        contact: "info@sheblockchain.io",
         since: "1995"
     },
     {
@@ -280,8 +280,8 @@ const companies = [
         rating: "3.3",
         location: "London, UK",
         employee: "11-50",
-        website: "www.themesbrand.com",
-        contact: "info@themesbrand.com",
+        website: "www.sheblockchain.io",
+        contact: "info@sheblockchain.io",
         since: "1995"
     },
     {
@@ -294,8 +294,8 @@ const companies = [
         rating: "4.9",
         location: "Damascus, Syria",
         employee: "11-50",
-        website: "www.themesbrand.com",
-        contact: "info@themesbrand.com",
+        website: "www.sheblockchain.io",
+        contact: "info@sheblockchain.io",
         since: "1995"
     },
     {
@@ -308,8 +308,8 @@ const companies = [
         rating: "2.9",
         location: "Berlin, Germany",
         employee: "11-50",
-        website: "www.themesbrand.com",
-        contact: "info@themesbrand.com",
+        website: "www.sheblockchain.io",
+        contact: "info@sheblockchain.io",
         since: "1995"
     },
 ];
@@ -440,7 +440,7 @@ const leads = [
         id: 11,
         leadsId: "#VZ21011",
         img: avatar7,
-        name: "Anna Martino",
+        name: "Linh",
         company: "Syntyce Solutions",
         score: "254",
         phone: "654-987-0123",
@@ -641,7 +641,7 @@ const deals = [
                 title: "Skote React Development",
                 price: "$89.8",
                 date: "21 Nov, 2021",
-                subTitle: "Themesbrand",
+                subTitle: "sheblockchain",
                 timeDuration: "3 Month",
                 timeDurationClass: "danger",
                 isFooter: true,
@@ -654,7 +654,7 @@ const deals = [
                 title: "sheblockchain - Admin Dashboard",
                 price: "$126.7k",
                 date: "30 Dec, 2021",
-                subTitle: "Themesbrand",
+                subTitle: "sheblockchain",
                 timeDuration: "3 Days",
                 timeDurationClass: "danger",
                 isFooter: true,

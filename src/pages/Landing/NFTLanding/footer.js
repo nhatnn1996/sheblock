@@ -90,7 +90,7 @@ const Footer = () => {
             <Col sm={6}>
               <div>
                 <p className="copy-rights mb-0">
-                  {new Date().getFullYear()} © sheblockchain - Themesbrand
+                  {new Date().getFullYear()} © sheblockchain - sheblockchain
                 </p>
               </div>
             </Col>

@@ -11,7 +11,7 @@ import ImgGif3 from "../../assets/images/nft/gif/img-3.gif";
 import ImgGif4 from "../../assets/images/nft/gif/img-4.gif";
 import avatar8 from "../../assets/images/users/avatar-8.jpg";
 import avatar10 from "../../assets/images/users/avatar-10.jpg";
-import avatar1 from "../../assets/images/users/avatar-1.jpg";
+import avatar1 from "../../assets/images/users/linh.jpeg";
 import btcCoin from "../../assets/images/svg/crypto-icons/btc.svg";
 import ltcCoin from "../../assets/images/svg/crypto-icons/ltc.svg";
 import etcCoin from "../../assets/images/svg/crypto-icons/etc.svg";

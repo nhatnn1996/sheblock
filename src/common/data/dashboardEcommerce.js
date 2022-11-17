@@ -11,7 +11,7 @@ import company3 from "../../assets/images/companies/img-3.png";
 import company5 from "../../assets/images/companies/img-5.png";
 import company8 from "../../assets/images/companies/img-8.png";
 
-import avatar1 from "../../assets/images/users/avatar-1.jpg";
+import avatar1 from "../../assets/images/users/linh.jpeg";
 import avatar2 from "../../assets/images/users/avatar-2.jpg";
 import avatar3 from "../../assets/images/users/avatar-3.jpg";
 import avatar4 from "../../assets/images/users/avatar-4.jpg";

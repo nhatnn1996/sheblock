@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Button, Card, Col, Container, Row } from 'reactstrap';
 
 //import images
-import avatar1 from "../../../assets/images/users/avatar-1.jpg";
+import avatar1 from "../../../assets/images/users/linh.jpeg";
 
 import AuthSlider from '../authCarousel';
 
@@ -30,7 +30,7 @@ document.title="Lock Screen | S.H.E Blockchain – Empowering Women in Blockchai
                                                     </div>
                                                     <div className="user-thumb text-center">
                                                         <img src={avatar1} className="rounded-circle img-thumbnail avatar-lg" alt="thumbnail" />
-                                                        <h5 className="font-size-15 mt-3">Anna Adame</h5>
+                                                        <h5 className="font-size-15 mt-3">Linh</h5>
                                                     </div>
 
                                                     <div className="mt-4">

@@ -9,7 +9,7 @@ import BreadCrumb from '../../../Components/Common/BreadCrumb';
 import PreviewCardHeader from '../../../Components/Common/PreviewCardHeader';
 
 // Import Images
-import avatar1 from "../../../assets/images/users/avatar-1.jpg";
+import avatar1 from "../../../assets/images/users/linh.jpeg";
 import avatar2 from "../../../assets/images/users/avatar-2.jpg";
 
 import img2 from "../../../assets/images/small/img-2.jpg";

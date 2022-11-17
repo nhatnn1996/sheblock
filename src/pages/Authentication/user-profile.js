@@ -22,7 +22,7 @@ import { useFormik } from "formik";
 //redux
 import { useSelector, useDispatch } from "react-redux";
 
-import avatar from "../../assets/images/users/avatar-1.jpg";
+import avatar from "../../assets/images/users/linh.jpeg";
 // actions
 import { editProfile, resetProfileFlag } from "../../store/actions";
 
@@ -101,8 +101,8 @@ const UserProfile = () => {
                     <div className="flex-grow-1 align-self-center">
                       <div className="text-muted">
                         <h5>{userName || "Admin"}</h5>
-                        <p className="mb-1">Email Id : {email}</p>
-                        <p className="mb-0">Id No : #{idx}</p>
+                        <p className="mb-1">Email Id : sheblockchain.io</p>
+                        <p className="mb-0">Id No : 092933288328</p>
                       </div>
                     </div>
                   </div>

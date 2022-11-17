@@ -6,7 +6,7 @@ import Flatpickr from "react-flatpickr";
 
 //import images
 import progileBg from '../../../../assets/images/profile-bg.jpg';
-import avatar1 from '../../../../assets/images/users/avatar-1.jpg';
+import avatar1 from '../../../../assets/images/users/linh.jpeg';
 
 const Settings = () => {
     const [activeTab, setActiveTab] = useState("1");
@@ -58,7 +58,7 @@ const Settings = () => {
                                                 </Label>
                                             </div>
                                         </div>
-                                        <h5 className="fs-16 mb-1">Anna Adame</h5>
+                                        <h5 className="fs-16 mb-1">Linh</h5>
                                         <p className="text-muted mb-0">Lead Designer / Developer</p>
                                     </div>
                                 </CardBody>
@@ -221,7 +221,7 @@ const Settings = () => {
                                                                 Address</Label>
                                                             <Input type="email" className="form-control" id="emailInput"
                                                                 placeholder="Enter your email"
-                                                                defaultValue="daveadame@sheblockchain.com" />
+                                                                defaultValue="daveadame@sheblockchain.io" />
                                                         </div>
                                                     </Col>
                                                     <Col lg={12}>
@@ -295,7 +295,7 @@ const Settings = () => {
                                                                 className="form-label">Description</Label>
                                                             <textarea className="form-control"
                                                                 id="exampleFormControlTextarea"
-                                                                rows="3" defaultValue="Hi I'm Anna Adame, It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is European languages are members of the same family."></textarea>
+                                                                rows="3" defaultValue="Hi I'm Linh, It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is European languages are members of the same family."></textarea>
                                                         </div>
                                                     </Col>
                                                     <Col lg={12}>
@@ -449,7 +449,7 @@ const Settings = () => {
                                                                         Name</Label>
                                                                     <Input type="text" className="form-control"
                                                                         id="companyName" placeholder="Company name"
-                                                                        defaultValue="Themesbrand" />
+                                                                        defaultValue="sheblockchain" />
                                                                 </div>
                                                             </Col>
 

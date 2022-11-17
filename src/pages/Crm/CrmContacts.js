@@ -868,7 +868,7 @@ const CrmContacts = () => {
                           <td className="fw-medium">
                             Email ID
                           </td>
-                          <td>{info.email || "tonyanoble@sheblockchain.com"}</td>
+                          <td>{info.email || "tonyanoble@sheblockchain.io"}</td>
                         </tr>
                         <tr>
                           <td className="fw-medium">

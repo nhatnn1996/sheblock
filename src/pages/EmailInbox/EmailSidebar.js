@@ -208,7 +208,7 @@ const EmailSidebar = () => {
               <Input
                 type="text"
                 className="form-control email-compose-input"
-                defaultValue="support@themesbrand.com"
+                defaultValue="support@sheblockchain.io"
               />
               <div className="position-absolute top-0 end-0">
                 <div className="d-flex">

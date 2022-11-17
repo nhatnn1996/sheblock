@@ -39,7 +39,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import Loader from "../../../Components/Common/Loader";
 
 const Assigned = [
-  { id: 1, imgId: "anna-adame", img: "avatar-1.jpg", name: "Anna Adame" },
+  { id: 1, imgId: "anna-adame", img: "avatar-1.jpg", name: "Linh" },
   { id: 2, imgId: "frank-hook", img: "avatar-3.jpg", name: "Frank Hook" },
   { id: 3, imgId: "alexis-clarke", img: "avatar-6.jpg", name: "Alexis Clarke" },
   { id: 4, imgId: "herbert-stokes", img: "avatar-2.jpg", name: "Herbert Stokes" },

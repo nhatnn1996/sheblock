@@ -1,5 +1,5 @@
 // import images
-import avatar1 from "../../assets/images/users/avatar-1.jpg";
+import avatar1 from "../../assets/images/users/linh.jpeg";
 import avatar2 from "../../assets/images/users/avatar-2.jpg";
 import avatar3 from "../../assets/images/users/avatar-3.jpg";
 import avatar4 from "../../assets/images/users/avatar-4.jpg";
@@ -147,7 +147,7 @@ const messages = [
   {
     id: 2,
     roomId: 1,
-    sender: "Anna Adame",
+    sender: "Linh",
     message: "Good morning, How are you? What about our next meeting?",
     createdAt: "09:08 am",
   },
@@ -169,7 +169,7 @@ const messages = [
   {
     id: 5,
     roomId: 1,
-    sender: "Anna Adame",
+    sender: "Linh",
     message: "Wow that's great",
     createdAt: "09:12 am",
   },

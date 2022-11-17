@@ -13,7 +13,7 @@ import smallImage11 from '../../assets/images/small/img-11.jpg';
 import smallImage12 from '../../assets/images/small/img-12.jpg';
 
 //User Images
-import avatar1 from '../../assets/images/users/avatar-1.jpg';
+import avatar1 from '../../assets/images/users/linh.jpeg';
 import avatar2 from '../../assets/images/users/avatar-2.jpg';
 import avatar3 from '../../assets/images/users/avatar-3.jpg';
 import avatar5 from '../../assets/images/users/avatar-5.jpg';
@@ -847,32 +847,32 @@ const video = [
     {
         id: 1,
         title: "Admin dashboard templates - Material Design for sheblockchain",
-        siteLink: "https://themesbrand.com/sheblockchain/index.html",
+        siteLink: "https://sheblockchain.io/sheblockchain/index.html",
         videoLink: "https://www.youtube.com/embed/GfSZtaoc5bw",
         description: "sheblockchain admin is super flexible, powerful, clean, modern & responsive admin template based on bootstrap 5 stable with unlimited possibilities. You can simply change to any layout or mode by changing a couple of lines of code. You can start small and large projects or update design in your existing project using sheblockchain it is very quick and easy as it is beautiful, adroit, and delivers the ultimate user experience.",
         likes: 335,
         comments: 102,
-        auther: "Themesbrand"
+        auther: "sheblockchain"
     },
     {
         id: 2,
         title: "Create Responsive Admin Dashboard using Html CSS",
-        siteLink: "https://themesbrand.com/sheblockchain/index.html",
+        siteLink: "https://sheblockchain.io/sheblockchain/index.html",
         videoLink: "https://www.youtube.com/embed/Z-fV2lGKnnU",
         description: "sheblockchain admin is super flexible, powerful, clean, modern & responsive admin template based on bootstrap 5 stable with unlimited possibilities. You can simply change to any layout or mode by changing a couple of lines of code. You can start small and large projects or update design in your existing project using sheblockchain it is very quick and easy as it is beautiful, adroit, and delivers the ultimate user experience.",
         likes: 485,
         comments: 167,
-        auther: "Themesbrand"
+        auther: "sheblockchain"
     },
     {
         id: 3,
         title: "sheblockchain - The Most Popular Bootstrap 5 HTML, Angular & React Js Admin",
-        siteLink: "https://themesbrand.com/sheblockchain/index.html",
+        siteLink: "https://sheblockchain.io/sheblockchain/index.html",
         videoLink: "https://www.youtube.com/embed/1y_kfWUCFDQ",
         description: "sheblockchain admin is super flexible, powerful, clean, modern & responsive admin template based on bootstrap 5 stable with unlimited possibilities. You can simply change to any layout or mode by changing a couple of lines of code. You can start small and large projects or update design in your existing project using sheblockchain it is very quick and easy as it is beautiful, adroit, and delivers the ultimate user experience.",
         likes: 122,
         comments: 51,
-        auther: "Themesbrand"
+        auther: "sheblockchain"
     }
 ];
 

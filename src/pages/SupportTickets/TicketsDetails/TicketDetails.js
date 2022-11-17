@@ -24,7 +24,7 @@ const TicketDetails = () => {
                                     </tr>
                                     <tr>
                                         <td className="fw-medium">Client</td>
-                                        <td id="t-client">Themesbrand</td>
+                                        <td id="t-client">sheblockchain</td>
                                     </tr>
                                     <tr>
                                         <td className="fw-medium">Project</td>

@@ -159,7 +159,7 @@ document.title="Search Results | S.H.E Blockchain – Empowering Women in Blockc
                                         <TabPane tabId="1">
                                             <div className="pb-3">
                                                 <h5 className="mb-1"><Link to="#">sheblockchain - Responsive Bootstrap 5 Admin Dashboard</Link></h5>
-                                                <p className="text-success mb-2">https://themesbrand.com/sheblockchain/index.html</p>
+                                                <p className="text-success mb-2">https://sheblockchain.io/sheblockchain/index.html</p>
                                                 <p className="text-muted mb-2">sheblockchain admin is super flexible, powerful, clean, modern & responsive admin template based on <span className="fw-semibold">bootstrap 5</span> stable with unlimited possibilities. You can simply change to any layout or mode by changing a couple of lines of code. You can start small and large projects or update design in your existing project using sheblockchain it is very quick and easy as it is beautiful, adroit, and delivers the ultimate user experience.</p>
                                                 <ul className="list-inline d-flex align-items-center g-3 text-muted fs-14 mb-0">
                                                     <li className="list-inline-item me-3"><i className="ri-thumb-up-line align-middle me-1"></i>10</li>
@@ -170,7 +170,7 @@ document.title="Search Results | S.H.E Blockchain – Empowering Women in Blockc
                                                                 <i className="ri-user-line"></i>
                                                             </div>
                                                             <div className="flex-grow-1 fs-13 ms-1">
-                                                                <span className="fw-medium">Themesbrand</span>
+                                                                <span className="fw-medium">sheblockchain</span>
                                                             </div>
                                                         </div>
                                                     </li>
@@ -224,8 +224,8 @@ document.title="Search Results | S.H.E Blockchain – Empowering Women in Blockc
                                             <div className="border border-dashed"></div>
 
                                             <div className="py-3">
-                                                <h5 className="mb-1"><Link to="#">Skote - Admin & Dashboard Template by Themesbrand</Link></h5>
-                                                <p className="text-success mb-2">https://themesbrand.com/skote/</p>
+                                                <h5 className="mb-1"><Link to="#">Skote - Admin & Dashboard Template by sheblockchain</Link></h5>
+                                                <p className="text-success mb-2">https://sheblockchain.io/skote/</p>
                                                 <p className="text-muted mb-2">Skote is an admin dashboard template that is a beautifully crafted, clean & minimal designed admin template with Dark, Light Layouts with RTL options. You can build any type of web application like Saas based interface, eCommerce, Crypto, CRM, CMS, Project management apps, Admin Panels, etc.</p>
                                                 <ul className="list-inline d-flex align-items-center g-3 text-muted fs-14 mb-0">
                                                     <li className="list-inline-item me-3"><i className="ri-thumb-up-line align-middle me-1"></i>485</li>
@@ -236,7 +236,7 @@ document.title="Search Results | S.H.E Blockchain – Empowering Women in Blockc
                                                                 <i className="ri-user-line"></i>
                                                             </div>
                                                             <div className="flex-grow-1 fs-13 ms-1">
-                                                                <span className="fw-medium">Themesbrand</span>
+                                                                <span className="fw-medium">sheblockchain</span>
                                                             </div>
                                                         </div>
                                                     </li>
@@ -247,7 +247,7 @@ document.title="Search Results | S.H.E Blockchain – Empowering Women in Blockc
 
                                             <div className="py-3">
                                                 <h5 className="mb-1"><Link to="#">Minia - React Js Admin & Dashboard Template</Link></h5>
-                                                <p className="text-success mb-2">https://themesbrand.com/minia/react/</p>
+                                                <p className="text-success mb-2">https://sheblockchain.io/minia/react/</p>
                                                 <p className="text-muted mb-2">Minia react is a simple and beautiful admin template built with Bootstrap ^5.1.3. It has <span className="fw-semibold">5+ different layouts and 3 modes</span> ( Dark, Light & RTL ) which are managed by SCSS only. You can simply change to any layouts or mode by changing a couple of lines code.</p>
                                                 <ul className="list-inline d-flex align-items-center g-3 text-muted fs-14 mb-0">
                                                     <li className="list-inline-item me-3"><i className="ri-thumb-up-line align-middle me-1"></i>69</li>
@@ -258,7 +258,7 @@ document.title="Search Results | S.H.E Blockchain – Empowering Women in Blockc
                                                                 <i className="ri-user-line"></i>
                                                             </div>
                                                             <div className="flex-grow-1 fs-13 ms-1">
-                                                                <span className="fw-medium">Themesbrand</span>
+                                                                <span className="fw-medium">sheblockchain</span>
                                                             </div>
                                                         </div>
                                                     </li>
@@ -268,8 +268,8 @@ document.title="Search Results | S.H.E Blockchain – Empowering Women in Blockc
                                             <div className="border border-dashed"></div>
 
                                             <div className="py-3">
-                                                <h5 className="mb-1"><Link to="#">Doson - Angular Admin & Dashboard Template by Themesbrand</Link></h5>
-                                                <p className="text-success mb-2">https://themesbrand.com/dason/angular/</p>
+                                                <h5 className="mb-1"><Link to="#">Doson - Angular Admin & Dashboard Template by sheblockchain</Link></h5>
+                                                <p className="text-success mb-2">https://sheblockchain.io/dason/angular/</p>
                                                 <p className="text-muted mb-2">Dason is a simple and beautiful admin template built with Bootstrap ^5.1.3. It has 5+ different layouts and 3 modes ( Dark, Light & RTL ) which are managed by SCSS only. You can simply change to any layouts or mode by changing a couple of lines code.</p>
                                                 <ul className="list-inline d-flex align-items-center g-3 text-muted fs-14 mb-0">
                                                     <li className="list-inline-item me-3"><i className="ri-thumb-up-line align-middle me-1"></i>102</li>
@@ -280,7 +280,7 @@ document.title="Search Results | S.H.E Blockchain – Empowering Women in Blockc
                                                                 <i className="ri-user-line"></i>
                                                             </div>
                                                             <div className="flex-grow-1 fs-13 ms-1">
-                                                                <span className="fw-medium">Themesbrand</span>
+                                                                <span className="fw-medium">sheblockchain</span>
                                                             </div>
                                                         </div>
                                                     </li>

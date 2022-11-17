@@ -231,7 +231,10 @@ const authProtectedRoutes = [
   { path: "/dashboard-nft", component: DashboardNFT },
   { path: "/apps-calendar", component: Calendar },
   { path: "/apps-ecommerce-products", component: EcommerceProducts },
-  { path: "/apps-ecommerce-product-details", component: EcommerceProductDetail },
+  {
+    path: "/apps-ecommerce-product-details",
+    component: EcommerceProductDetail,
+  },
   { path: "/apps-ecommerce-add-product", component: EcommerceAddProduct },
   { path: "/apps-ecommerce-orders", component: EcommerceOrders },
   { path: "/apps-ecommerce-order-details", component: EcommerceOrderDetail },
@@ -382,6 +385,9 @@ const authProtectedRoutes = [
   { path: "/profile", component: UserProfile },
   // this route should be at the end of all other routes
   // eslint-disable-next-line react/display-name
+];
+
+export const redirect = [
   {
     path: "/",
     exact: true,
@@ -419,7 +425,7 @@ const publicRoutes = [
   { path: "/pages-coming-soon", component: ComingSoon },
 
   { path: "/landing", component: OnePage },
-  { path: "/nft-landing", component: NFTLanding },
+  // { path: "/nft-landing", component: NFTLanding },
 
   { path: "/auth-pass-change-basic", component: BasicPasswCreate },
   { path: "/auth-pass-change-cover", component: CoverPasswCreate },

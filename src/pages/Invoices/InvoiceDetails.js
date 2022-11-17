@@ -58,12 +58,12 @@ const InvoiceDetails = () => {
                         </h6>
                         <h6>
                           <span className="text-muted fw-normal">Email:</span>{" "}
-                          <span id="email">sheblockchain@themesbrand.com</span>
+                          <span id="email">sheblockchain@sheblockchain.io</span>
                         </h6>
                         <h6>
                           <span className="text-muted fw-normal">Website:</span>{" "}
                           <Link to="#" className="link-primary" id="website">
-                            www.themesbrand.com
+                            www.sheblockchain.io
                           </Link>
                         </h6>
                         <h6 className="mb-0">

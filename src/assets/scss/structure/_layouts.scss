@@ -2,6 +2,12 @@
 // _layouts.scss
 // 
 
+.btn-custom{
+    a{
+        color: gray !important;
+    }
+}
+
 [data-layout-width="boxed"] {
     body {
         background-color: $boxed-body-bg;

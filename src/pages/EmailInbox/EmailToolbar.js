@@ -15,7 +15,7 @@ import SimpleBar from "simplebar-react";
 import Rating from "react-rating";
 
 // Import Images
-import avatar1 from "../../assets/images/users/avatar-1.jpg";
+import avatar1 from "../../assets/images/users/linh.jpeg";
 
 import img2 from "../../assets/images/small/img-2.jpg";
 import img6 from "../../assets/images/small/img-6.jpg";
@@ -660,7 +660,7 @@ const EmailToolbar = () => {
                                                 <img src={avatar1} alt="" className="img-fluid rounded-circle" />
                                             </div>
                                             <div className="flex-grow-1 overflow-hidden">
-                                                <h5 className="fs-14 text-truncate email-user-name-right mb-0">Anna Adame</h5>
+                                                <h5 className="fs-14 text-truncate email-user-name-right mb-0">Linh</h5>
                                                 <div className="text-truncate fs-12">to: jackdavis@email.com</div>
                                             </div>
                                             <div className="flex-shrink-0 align-self-start">
@@ -898,7 +898,7 @@ const EmailToolbar = () => {
                             <Input
                                 type="text"
                                 className="form-control email-compose-input"
-                                defaultValue="support@themesbrand.com"
+                                defaultValue="support@sheblockchain.io"
                             />
                             <div className="position-absolute top-0 end-0">
                                 <div className="d-flex">

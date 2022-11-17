@@ -70,7 +70,7 @@ const Chat = () => {
   const [reply, setreply] = useState("");
   const [emojiPicker, setemojiPicker] = useState(false);
   const [currentUser, setCurrentUser] = useState({
-    name: "Anna Adame",
+    name: "Linh",
     isActive: true,
   });
 

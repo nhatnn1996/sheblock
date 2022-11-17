@@ -38,7 +38,7 @@ const Section = () => {
                                                 <div>
                                                     <h4 className="fw-bold">sheblockchain - Admin & Dashboard</h4>
                                                     <div className="hstack gap-3 flex-wrap">
-                                                        <div><i className="ri-building-line align-bottom me-1"></i> Themesbrand</div>
+                                                        <div><i className="ri-building-line align-bottom me-1"></i> sheblockchain</div>
                                                         <div className="vr"></div>
                                                         <div>Create Date : <span className="fw-medium">15 Sep, 2021</span></div>
                                                         <div className="vr"></div>

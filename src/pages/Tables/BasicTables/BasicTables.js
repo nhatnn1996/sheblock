@@ -26,7 +26,7 @@ import {
 } from './BasicTablesCode';
 
 //Import images
-import avtarImage1 from '../../../assets/images/users/avatar-1.jpg';
+import avtarImage1 from '../../../assets/images/users/linh.jpeg';
 import avtarImage3 from '../../../assets/images/users/avatar-3.jpg';
 import avtarImage4 from '../../../assets/images/users/avatar-4.jpg';
 import avtarImage5 from '../../../assets/images/users/avatar-5.jpg';

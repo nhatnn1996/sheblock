@@ -7,7 +7,7 @@ import SwiperCore, { Autoplay } from "swiper";
 
 //Images
 import profileBg from '../../../../assets/images/profile-bg.jpg';
-import avatar1 from '../../../../assets/images/users/avatar-1.jpg';
+import avatar1 from '../../../../assets/images/users/linh.jpeg';
 import avatar2 from '../../../../assets/images/users/avatar-2.jpg';
 import avatar3 from '../../../../assets/images/users/avatar-3.jpg';
 import avatar4 from '../../../../assets/images/users/avatar-4.jpg';
@@ -67,14 +67,14 @@ const SimplePage = () => {
 
                             <Col>
                                 <div className="p-2">
-                                    <h3 className="text-white mb-1">Anna Adame</h3>
+                                    <h3 className="text-white mb-1">Linh</h3>
                                     <p className="text-white-75">Owner & Founder</p>
                                     <div className="hstack text-white-50 gap-1">
                                         <div className="me-2"><i
                                             className="ri-map-pin-user-line me-1 text-white-75 fs-16 align-middle"></i>California,
                                             United States</div>
                                         <div><i
-                                            className="ri-building-line me-1 text-white-75 fs-16 align-middle"></i>Themesbrand
+                                            className="ri-building-line me-1 text-white-75 fs-16 align-middle"></i>sheblockchain
                                         </div>
                                     </div>
                                 </div>
@@ -171,7 +171,7 @@ const SimplePage = () => {
                                                                 <tbody>
                                                                     <tr>
                                                                         <th className="ps-0" scope="row">Full Name :</th>
-                                                                        <td className="text-muted">Anna Adame</td>
+                                                                        <td className="text-muted">Linh</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <th className="ps-0" scope="row">Mobile :</th>
@@ -179,7 +179,7 @@ const SimplePage = () => {
                                                                     </tr>
                                                                     <tr>
                                                                         <th className="ps-0" scope="row">E-mail :</th>
-                                                                        <td className="text-muted">daveadame@sheblockchain.com</td>
+                                                                        <td className="text-muted">daveadame@sheblockchain.io</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <th className="ps-0" scope="row">Location :</th>
@@ -404,7 +404,7 @@ const SimplePage = () => {
                                                 <Card>
                                                     <CardBody>
                                                         <h5 className="card-title mb-3">About</h5>
-                                                        <p>Hi I'm Anna Adame, It will be as simple as Occidental; in
+                                                        <p>Hi I'm Linh, It will be as simple as Occidental; in
                                                             fact, it will be Occidental. To an English person, it will
                                                             seem like simplified English, as a skeptical Cambridge
                                                             friend of mine told me what Occidental is European languages

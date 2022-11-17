@@ -5,7 +5,7 @@ import ParticlesAuth from "../ParticlesAuth";
 
 //import images
 import logoLight from "../../../assets/images/logo-light.png";
-import avatar1 from "../../../assets/images/users/avatar-1.jpg";
+import avatar1 from "../../../assets/images/users/linh.jpeg";
 
 
 const BasicLockScreen = () => {
@@ -40,7 +40,7 @@ document.title="Lock Screen | S.H.E Blockchain – Empowering Women in Blockchai
                                                 </div>
                                                 <div className="user-thumb text-center">
                                                     <img src={avatar1} className="rounded-circle img-thumbnail avatar-lg" alt="thumbnail" />
-                                                    <h5 className="font-size-15 mt-3">Anna Adame</h5>
+                                                    <h5 className="font-size-15 mt-3">Linh</h5>
                                                 </div>
                                                 <div className="p-2 mt-4">
                                                     <form>
