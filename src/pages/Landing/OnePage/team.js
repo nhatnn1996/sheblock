@@ -38,9 +38,7 @@ const Team = () => {
                 <CardBody className="text-center p-4">
                   <div className="avatar-xl mx-auto mb-4 position-relative">
                     <img
-                      src={
-                        "https://sheblockchain.io/wp-content/uploads/2022/06/ART2210-cropped.jpeg"
-                      }
+                      src={"/images/linh.png"}
                       alt=""
                       className="img-fluid rounded-circle"
                     />
@@ -75,9 +73,7 @@ const Team = () => {
                 <CardBody className="text-center p-4">
                   <div className="avatar-xl mx-auto mb-4 position-relative">
                     <img
-                      src={
-                        "https://sheblockchain.io/wp-content/uploads/2022/06/ART2210-cropped.jpg"
-                      }
+                      src={"/images/tien.png"}
                       alt=""
                       className="img-fluid rounded-circle"
                     />
@@ -136,9 +132,7 @@ const Team = () => {
                 <CardBody className="text-center p-4">
                   <div className="avatar-xl mx-auto mb-4 position-relative">
                     <img
-                      src={
-                        "https://sheblockchain.io/wp-content/uploads/2022/06/victor-tran.jpeg"
-                      }
+                      src={"/images/victor.jpg"}
                       alt=""
                       className="img-fluid rounded-circle"
                     />
@@ -173,9 +167,7 @@ const Team = () => {
                 <CardBody className="text-center p-4">
                   <div className="avatar-xl mx-auto mb-4 position-relative">
                     <img
-                      src={
-                        "https://sheblockchain.io/wp-content/uploads/2022/06/pham-hoang-thu-uyen.jpg"
-                      }
+                      src={"/images/uyen.jpg"}
                       alt=""
                       className="img-fluid rounded-circle"
                     />
@@ -210,9 +202,7 @@ const Team = () => {
                 <CardBody className="text-center p-4">
                   <div className="avatar-xl mx-auto mb-4 position-relative">
                     <img
-                      src={
-                        "https://sheblockchain.io/wp-content/uploads/2022/06/cris-d-tran.jpeg"
-                      }
+                      src={"/images/Cris.jpg"}
                       alt=""
                       className="img-fluid rounded-circle"
                     />

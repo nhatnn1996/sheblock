@@ -30,6 +30,10 @@
 .avatar-xl {
     height: 7.5rem;
     width: 7.5rem;
+    img: {
+        object-fit: cover;
+        height: 100%;
+    }
 }
 
 .avatar-title {
